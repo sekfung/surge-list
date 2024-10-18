@@ -19,7 +19,7 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,imgur.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
 DOMAIN-SUFFIX,reddit.com,Proxy
@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,outlook.com,Proxy
 DOMAIN-SUFFIX,v2ex.com,Proxy
 DOMAIN-SUFFIX,docker.io,Proxy
 DOMAIN-SUFFIX,gcr.io,Proxy
+DOMAIN-SUFFIX,okx.com,Proxy
